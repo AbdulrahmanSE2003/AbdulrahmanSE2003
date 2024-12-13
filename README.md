@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abdulrahman_Saad
-- 👀 I’m interested in WEb Dev
+- 👀 I’m interested in Web Dev
 - 🌱 I’m currently learning Backend & React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me abdulrahmansaad2303@gmail.com
