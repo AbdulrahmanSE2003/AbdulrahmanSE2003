@@ -35,8 +35,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulrahmanse2003&show_icons=true&locale=en&layout=compact" alt="abdulrahmanse2003" style="background-color:#000; border-radius:8px; color:white;" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulrahmanse2003&show_icons=true&locale=en" alt="abdulrahmanse2003" style="background-color:#333; border-radius:8px;" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulrahmanse2003&show_icons=true&locale=en" alt="abdulrahmanse2003" style="background-color:#000; border-radius:8px;" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrahmanse2003&" alt="abdulrahmanse2003" style="background-color:#333; border-radius:8px;" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrahmanse2003&" alt="abdulrahmanse2003" style="background-color:#000; border-radius:8px;" /></p>
 
 ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
