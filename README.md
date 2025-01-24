@@ -33,7 +33,7 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="filter: brightness(0) invert(1);" /> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulrahmanse2003&show_icons=true&locale=en&layout=compact" alt="abdulrahmanse2003" style="background-color:#333; border-radius:8px; color:white;" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulrahmanse2003&show_icons=true&locale=en&layout=compact" alt="abdulrahmanse2003" style="background-color:#333; border-radius:8px; color:black;" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulrahmanse2003&show_icons=true&locale=en" alt="abdulrahmanse2003" style="background-color:#333; border-radius:8px;" /></p>
 
