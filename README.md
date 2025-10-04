@@ -131,13 +131,9 @@ I am a **Frontend Developer** dedicated to crafting clean and responsive web exp
 
 ---
 
-<!-- ===== TROPHIES ===== -->
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=AbdulrahmanSE2003&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![snake gif](https://github.com/AbdulrahmanSE2003/AbdulrahmanSE2003/blob/output/github-snake-dark.svg)
 
 <!-- ===== RANDOM QUOTE ===== -->
 
