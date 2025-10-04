@@ -124,8 +124,8 @@ I am a **Frontend Developer** dedicated to crafting clean and responsive web exp
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulrahmanSE2003&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulrahmanSE2003&theme=dark&hide_border=false" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulrahmanSE2003&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="200px" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulrahmanSE2003&theme=dark&hide_border=false" height="200px" width="45%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrahmanSE2003&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="45%"/>
 </p>
 
