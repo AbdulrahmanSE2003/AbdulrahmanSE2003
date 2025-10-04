@@ -71,14 +71,14 @@ I am a **Frontend Developer** dedicated to crafting clean and responsive web exp
 
 <div align="center" style="margin: 2rem 0; display: flex; flex-wrap: wrap; gap: 0.5rem; justify-content: center;">
   <!-- Core Frontend -->
-  <img src="https://skillicons.dev/icons?i=react" height="50" alt="React" style="filter: drop-shadow(0 0 5px #61DBFB);" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="50" alt="JavaScript" style="filter: drop-shadow(0 0 5px #F7DF1E);" />
-  <img src="https://skillicons.dev/icons?i=php" height="50" alt="PHP" style="filter: drop-shadow(0 0 5px #777BB4);" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="Node.js" style="filter: drop-shadow(0 0 5px #3C873A);" />
-  <img src="https://skillicons.dev/icons?i=express" height="50" alt="Express" style="filter: drop-shadow(0 0 5px #000);" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="Tailwind CSS" style="filter: drop-shadow(0 0 5px #38B2AC);" />
   <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS" style="filter: drop-shadow(0 0 5px #264DE4);" />
   <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML" style="filter: drop-shadow(0 0 5px #E34F26);" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="50" alt="JavaScript" style="filter: drop-shadow(0 0 5px #F7DF1E);" />
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="React" style="filter: drop-shadow(0 0 5px #61DBFB);" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="Tailwind CSS" style="filter: drop-shadow(0 0 5px #38B2AC);" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="Node.js" style="filter: drop-shadow(0 0 5px #3C873A);" />
+  <img src="https://skillicons.dev/icons?i=express" height="50" alt="Express" style="filter: drop-shadow(0 0 5px #000);" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="50" alt="TypeScript" style="filter: drop-shadow(0 0 5px #000);" />
 
   <!-- Tools & Backend -->
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" style="filter: drop-shadow(0 0 5px #F05032);" />
@@ -94,7 +94,6 @@ I am a **Frontend Developer** dedicated to crafting clean and responsive web exp
 
   <!-- Advanced Frontend -->
   <img src="https://skillicons.dev/icons?i=threejs" height="50" alt="Three.js" style="filter: drop-shadow(0 0 5px #000);" />
-  <img src="https://skillicons.dev/icons?i=gsap" height="50" alt="GSAP" style="filter: drop-shadow(0 0 5px #88CE02);" />
 
   <!-- Tools & Productivity -->
   <img src="https://skillicons.dev/icons?i=markdown" height="50" alt="Markdown" style="filter: drop-shadow(0 0 5px #000);" />
