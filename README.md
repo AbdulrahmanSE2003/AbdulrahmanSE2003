@@ -58,7 +58,7 @@ I am a **Frontend Developer** dedicated to crafting clean and responsive web exp
          onmouseout="this.style.transform='scale(1)'" />
   </a>
   <a href="https://instagram.com/_abdulr_hman" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/instagram-000000?style=flat-square&logo=vercel&logoColor=white" 
+    <img src="https://img.shields.io/badge/instagram-000000?style=flat-square&logo=instagram&logoColor=white" 
          height="30" alt="Portfolio" 
          style="margin: 0.3rem; transition: transform 0.3s; filter: drop-shadow(0 0 5px #000);" 
          onmouseover="this.style.transform='scale(1.1)'" 
