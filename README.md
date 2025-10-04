@@ -1,20 +1,144 @@
-# 💫 About Me:
-Hi, I'm Abdulrahman Saad (a.k.a. Mnmlst), a Frontend Developer passionate about crafting modern, user-centric web experiences.<br><br>🔹 👨‍💻Proficient in React.js and always exploring innovative technologies.<br>🔹 🌱 Currently advancing my skills in React.js, Nuxt.js, and the MERN stack.<br>🔹 📫 Reach out to me: abdulrahman.saad2303@gmail.com<br><br>⚡ Let’s collaborate and build something extraordinary.
+<img width=100% title="AbdulrahmanSE2003" alt="AbdulrahmanSE2003" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abdulrahman-Saad&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=45"/>
 
+<p align="center">
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3500&pause=800&color=00D4FF&center=true&vCenter=true&width=450&lines=Software+Engineer;Full+Stack+Developer;" alt="AbdulrahmanSE2003" /></a>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_abdulr_hman) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulrahman-saad-9bbb17340) 
+---
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<h3 align="center">
+Frontend Developer
+</h3>
+
+I am a **Frontend Developer** dedicated to crafting clean and responsive web experiences. With expertise in **React**, **Next.js**, and **Tailwind CSS**, I build modern interfaces that combine performance, simplicity, and intuitive design.
+
+<div align="center" style="margin: 2rem 0;">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/abdulrahman-saad-hassan/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" 
+         height="30" alt="LinkedIn" 
+         style="margin: 0.3rem; transition: transform 0.3s; filter: drop-shadow(0 0 5px #0A66C2);" 
+         onmouseover="this.style.transform='scale(1.1)'" 
+         onmouseout="this.style.transform='scale(1)'" />
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:abdulrahman.saad2303@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" 
+         height="30" alt="Gmail"
+         style="margin: 0.3rem; transition: transform 0.3s; filter: drop-shadow(0 0 5px #EA4335);" 
+         onmouseover="this.style.transform='scale(1.1)'" 
+         onmouseout="this.style.transform='scale(1)'" />
+  </a>
+
+  <!-- Discord -->
+  <a href="https://discord.com/users/mad_bishob" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" 
+         height="30" alt="Discord" 
+         style="margin: 0.3rem; transition: transform 0.3s; filter: drop-shadow(0 0 5px #5865F2);" 
+         onmouseover="this.style.transform='scale(1.1)'" 
+         onmouseout="this.style.transform='scale(1)'" />
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/AbdulrahmanSE2003" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" 
+         height="30" alt="GitHub" 
+         style="margin: 0.3rem; transition: transform 0.3s; filter: drop-shadow(0 0 5px #000);" 
+         onmouseover="this.style.transform='scale(1.1)'" 
+         onmouseout="this.style.transform='scale(1)'" />
+  </a>
+
+  <!-- Portfolio -->
+  <a href="https://mnmlst.netlify.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" 
+         height="30" alt="Portfolio" 
+         style="margin: 0.3rem; transition: transform 0.3s; filter: drop-shadow(0 0 5px #000);" 
+         onmouseover="this.style.transform='scale(1.1)'" 
+         onmouseout="this.style.transform='scale(1)'" />
+  </a>
+  <a href="https://instagram.com/_abdulr_hman" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/instagram-000000?style=flat-square&logo=vercel&logoColor=white" 
+         height="30" alt="Portfolio" 
+         style="margin: 0.3rem; transition: transform 0.3s; filter: drop-shadow(0 0 5px #000);" 
+         onmouseover="this.style.transform='scale(1.1)'" 
+         onmouseout="this.style.transform='scale(1)'" />
+  </a>
+
+</div>
+
+---
+
+<div align="center" style="margin: 2rem 0; display: flex; flex-wrap: wrap; gap: 0.5rem; justify-content: center;">
+  <!-- Core Frontend -->
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="React" style="filter: drop-shadow(0 0 5px #61DBFB);" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="50" alt="JavaScript" style="filter: drop-shadow(0 0 5px #F7DF1E);" />
+  <img src="https://skillicons.dev/icons?i=php" height="50" alt="PHP" style="filter: drop-shadow(0 0 5px #777BB4);" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="Node.js" style="filter: drop-shadow(0 0 5px #3C873A);" />
+  <img src="https://skillicons.dev/icons?i=express" height="50" alt="Express" style="filter: drop-shadow(0 0 5px #000);" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="Tailwind CSS" style="filter: drop-shadow(0 0 5px #38B2AC);" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS" style="filter: drop-shadow(0 0 5px #264DE4);" />
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML" style="filter: drop-shadow(0 0 5px #E34F26);" />
+
+  <!-- Tools & Backend -->
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" style="filter: drop-shadow(0 0 5px #F05032);" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" style="filter: drop-shadow(0 0 5px #000);" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="Firebase" style="filter: drop-shadow(0 0 5px #FFCA28);" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL" style="filter: drop-shadow(0 0 5px #00758F);" />
+  <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" style="filter: drop-shadow(0 0 5px #3776AB);" />
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java" style="filter: drop-shadow(0 0 5px #007396);" />
+
+  <!-- Mobile -->
+  <img src="https://skillicons.dev/icons?i=dart" height="50" alt="Dart" style="filter: drop-shadow(0 0 5px #0175C2);" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="50" alt="Flutter" style="filter: drop-shadow(0 0 5px #02569B);" />
+
+  <!-- Advanced Frontend -->
+  <img src="https://skillicons.dev/icons?i=threejs" height="50" alt="Three.js" style="filter: drop-shadow(0 0 5px #000);" />
+  <img src="https://skillicons.dev/icons?i=gsap" height="50" alt="GSAP" style="filter: drop-shadow(0 0 5px #88CE02);" />
+
+  <!-- Tools & Productivity -->
+  <img src="https://skillicons.dev/icons?i=markdown" height="50" alt="Markdown" style="filter: drop-shadow(0 0 5px #000);" />
+  <img src="https://skillicons.dev/icons?i=npm" height="50" alt="npm" style="filter: drop-shadow(0 0 5px #CB3837);" />
+  <img src="https://skillicons.dev/icons?i=pnpm" height="50" alt="pnpm" style="filter: drop-shadow(0 0 5px #F69220);" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VSCode" style="filter: drop-shadow(0 0 5px #007ACC);" />
+  <img src="https://skillicons.dev/icons?i=webstorm" height="50" alt="WebStorm" style="filter: drop-shadow(0 0 5px #07C3F2);" />
+  <img src="https://skillicons.dev/icons?i=figma" height="50" alt="Figma" style="filter: drop-shadow(0 0 5px #F24E1E);" />
+
+  <!-- Knowledge Tools -->
+  <img src="https://skillicons.dev/icons?i=obsidian" height="50" alt="Obsidian" style="filter: drop-shadow(0 0 5px #483699);" />
+  <img src="https://skillicons.dev/icons?i=notion" height="50" alt="Notion" style="filter: drop-shadow(0 0 5px #000);" />
+</div>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrahmanSE2003&langs_count=8&theme=algolia&layout=compact" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulrahmanSE2003&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia" alt="GitHub Stars" width="45%" />
+  <img src="https://streak-stats.demolab.com?user=AbdulrahmanSE2003&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</p>
+
+<!-- ===== GITHUB STATS ===== -->
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrahmanSE2003&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulrahmanSE2003&theme=dark&hide_border=false&include_all_commits=true&count_private=false" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulrahmanSE2003&theme=dark&hide_border=false" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrahmanSE2003&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="45%"/>
+</p>
+
+---
+
+<!-- ===== TROPHIES ===== -->
 
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=AbdulrahmanSE2003&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![snake gif](https://github.com/AbdulrahmanSE2003/AbdulrahmanSE2003/blob/output/github-snake-dark.svg)
+<!-- ===== RANDOM QUOTE ===== -->
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
