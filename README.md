@@ -16,11 +16,57 @@ I am a **Frontend Developer** dedicated to crafting clean and responsive web exp
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/abdulrahman-saad-hassan/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" 
-         height="30" alt="LinkedIn" 
-         style="margin: 0.3rem; transition: transform 0.3s; filter: drop-shadow(0 0 5px #0A66C2);" 
-         onmouseover="this.style.transform='scale(1.1)'" 
-         onmouseout="this.style.transform='scale(1)'" />
+         height="30" alt="LinkedIn"
+         style="margin: 0.3rem; transition: all 0.3s; filter: drop-shadow(0 0 6px #0A66C2);" 
+         onmouseover="this.style.transform='scale(1.1)'; this.style.filter='drop-shadow(0 0 12px #0A66C2)'" 
+         onmouseout="this.style.transform='scale(1)'; this.style.filter='drop-shadow(0 0 6px #0A66C2)'" />
   </a>
+
+  <!-- Gmail -->
+  <a href="mailto:abdulrahman.saad2303@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" 
+         height="30" alt="Gmail"
+         style="margin: 0.3rem; transition: all 0.3s; filter: drop-shadow(0 0 6px #EA4335);" 
+         onmouseover="this.style.transform='scale(1.1)'; this.style.filter='drop-shadow(0 0 12px #EA4335)'" 
+         onmouseout="this.style.transform='scale(1)'; this.style.filter='drop-shadow(0 0 6px #EA4335)'" />
+  </a>
+
+  <!-- Discord -->
+  <a href="https://discord.com/users/mad_bishob" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" 
+         height="30" alt="Discord"
+         style="margin: 0.3rem; transition: all 0.3s; filter: drop-shadow(0 0 6px #5865F2);" 
+         onmouseover="this.style.transform='scale(1.1)'; this.style.filter='drop-shadow(0 0 12px #5865F2)'" 
+         onmouseout="this.style.transform='scale(1)'; this.style.filter='drop-shadow(0 0 6px #5865F2)'" />
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/AbdulrahmanSE2003" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" 
+         height="30" alt="GitHub"
+         style="margin: 0.3rem; transition: all 0.3s; filter: drop-shadow(0 0 6px #333);" 
+         onmouseover="this.style.transform='scale(1.1)'; this.style.filter='drop-shadow(0 0 12px #333)'" 
+         onmouseout="this.style.transform='scale(1)'; this.style.filter='drop-shadow(0 0 6px #333)'" />
+  </a>
+
+  <!-- Portfolio -->
+  <a href="https://mnmlst.netlify.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" 
+         height="30" alt="Portfolio"
+         style="margin: 0.3rem; transition: all 0.3s; filter: drop-shadow(0 0 6px #000);" 
+         onmouseover="this.style.transform='scale(1.1)'; this.style.filter='drop-shadow(0 0 12px #000)'" 
+         onmouseout="this.style.transform='scale(1)'; this.style.filter='drop-shadow(0 0 6px #000)'" />
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://instagram.com/_abdulr_hman" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" 
+         height="30" alt="Instagram"
+         style="margin: 0.3rem; transition: all 0.3s; filter: drop-shadow(0 0 6px #E4405F);" 
+         onmouseover="this.style.transform='scale(1.1)'; this.style.filter='drop-shadow(0 0 12px #E4405F)'" 
+         onmouseout="this.style.transform='scale(1)'; this.style.filter='drop-shadow(0 0 6px #E4405F)'" />
+  </a>
+</div>
 
   <!-- Gmail -->
   <a href="mailto:abdulrahman.saad2303@gmail.com" target="_blank" rel="noopener noreferrer">
