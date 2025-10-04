@@ -1,7 +1,7 @@
 <img width=100% title="AbdulrahmanSE2003" alt="AbdulrahmanSE2003" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abdulrahman-Saad&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=45"/>
 
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3500&pause=800&color=00D4FF&center=true&vCenter=true&width=450&lines=Software+Engineer;Full+Stack+Developer;" alt="AbdulrahmanSE2003" /></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3500&pause=800&color=00D4FF&center=true&vCenter=true&width=450&lines=Frontend+Engineer;Mern+Stack+Developer;" alt="AbdulrahmanSE2003" /></a>
 </p>
 
 ---
