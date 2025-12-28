@@ -123,11 +123,10 @@ I am a **Frontend Developer** dedicated to crafting clean and responsive web exp
 
 # 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulrahmanSE2003&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulrahmanSE2003&theme=dark&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrahmanSE2003&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=dark)
+
 
 ---
 
