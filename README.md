@@ -122,11 +122,7 @@ I am a **Frontend Developer** dedicated to crafting clean and responsive web exp
 <!-- ===== GITHUB STATS ===== -->
 
 # 📊 GitHub Stats:
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=dark)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=AbdulrahmanSE2003&theme=catppuccin-frappe)](https://git.io/streak-stats)
 
 ---
 
