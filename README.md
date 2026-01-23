@@ -68,15 +68,7 @@ I am a <b>Frontend Developer</b> dedicated to crafting clean and responsive web 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrahmanSE2003&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbdulrahmanSE2003&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" />
-  <img src="https://github-streak-stats.herokuapp.com/?user=AbdulrahmanSE2003&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulrahmanSE2003&theme=radical" width="100%" alt="Activity Graph" />
 </p>
 
 ---
@@ -90,16 +82,3 @@ I am a <b>Frontend Developer</b> dedicated to crafting clean and responsive web 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbdulrahmanSE2003&color=00d4ff&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
-</p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![snake gif](https://github.com/AbdulrahmanSE2003/AbdulrahmanSE2003/blob/output/github-snake-dark.svg)
-
-<!-- ===== RANDOM QUOTE ===== -->
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
