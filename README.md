@@ -123,7 +123,7 @@ I am a **Frontend Developer** dedicated to crafting clean and responsive web exp
 
 # 📊 GitHub Stats:
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DenverCoder1"/></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
