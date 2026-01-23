@@ -1,8 +1,8 @@
-<img width=100% title="AbdulrahmanSE2003" alt="AbdulrahmanSE2003" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abdulrahman-Saad&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=45"/>
+<img width=100% title="Abdulrahman-Saad" alt="Abdulrahman-Saad" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abdulrahman-Saad&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=45"/>
 
 <p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3500&pause=800&color=00D4FF&center=true&vCenter=true&width=450&lines=Frontend+Engineer;Mern+Stack+Developer;" alt="AbdulrahmanSE2003" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3500&pause=800&color=00D4FF&center=true&vCenter=true&width=450&lines=Frontend+Engineer;MERN+Stack+Developer;Creative+Coder;" alt="Typing SVG" />
   </a>
 </p>
 
@@ -12,122 +12,88 @@
 Frontend Developer
 </h3>
 
-I am a **Frontend Developer** dedicated to crafting clean and responsive web experiences. With expertise in **React**, **Next.js**, and **Tailwind CSS**, I build modern interfaces that combine performance, simplicity, and intuitive design.
+<p align="center">
+I am a <b>Frontend Developer</b> dedicated to crafting clean and responsive web experiences. With expertise in <b>React</b>, <b>Next.js</b>, and <b>Tailwind CSS</b>, I build modern interfaces that combine performance, simplicity, and intuitive design.
+</p>
 
-<!-- ===== CONTACT BADGES ===== -->
-<div align="center" style="margin: 2rem 0;">
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/abdulrahman-saad-hassan/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" 
-         height="30" alt="LinkedIn"
-         style="margin: 0.3rem; transition: all 0.3s; filter: drop-shadow(0 0 6px #0A66C2);" 
-         onmouseover="this.style.transform='scale(1.1)'; this.style.filter='drop-shadow(0 0 12px #0A66C2)'" 
-         onmouseout="this.style.transform='scale(1)'; this.style.filter='drop-shadow(0 0 6px #0A66C2)'" />
+<div align="center" style="margin: 1.5rem 0;">
+  <a href="https://www.linkedin.com/in/abdulrahman-saad-hassan/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" style="margin: 0.3rem; filter: drop-shadow(0 0 6px #0A66C2);" />
   </a>
-
-  <!-- Gmail -->
-  <a href="mailto:abdulrahman.saad2303@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" 
-         height="30" alt="Gmail"
-         style="margin: 0.3rem; transition: all 0.3s; filter: drop-shadow(0 0 6px #EA4335);" 
-         onmouseover="this.style.transform='scale(1.1)'; this.style.filter='drop-shadow(0 0 12px #EA4335)'" 
-         onmouseout="this.style.transform='scale(1)'; this.style.filter='drop-shadow(0 0 6px #EA4335)'" />
+  <a href="mailto:abdulrahman.saad2303@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" height="30" alt="Gmail" style="margin: 0.3rem; filter: drop-shadow(0 0 6px #EA4335);" />
   </a>
-
-  <!-- Discord -->
-  <a href="https://discord.com/users/mad_bishob" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" 
-         height="30" alt="Discord"
-         style="margin: 0.3rem; transition: all 0.3s; filter: drop-shadow(0 0 6px #5865F2);" 
-         onmouseover="this.style.transform='scale(1.1)'; this.style.filter='drop-shadow(0 0 12px #5865F2)'" 
-         onmouseout="this.style.transform='scale(1)'; this.style.filter='drop-shadow(0 0 6px #5865F2)'" />
+  <a href="https://discord.com/users/mad_bishob">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" height="30" alt="Discord" style="margin: 0.3rem; filter: drop-shadow(0 0 6px #5865F2);" />
   </a>
-
-  <!-- GitHub -->
-  <a href="https://github.com/AbdulrahmanSE2003" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" 
-         height="30" alt="GitHub"
-         style="margin: 0.3rem; transition: all 0.3s; filter: drop-shadow(0 0 6px #333);" 
-         onmouseover="this.style.transform='scale(1.1)'; this.style.filter='drop-shadow(0 0 12px #333)'" 
-         onmouseout="this.style.transform='scale(1)'; this.style.filter='drop-shadow(0 0 6px #333)'" />
-  </a>
-
-  <!-- Portfolio -->
-  <a href="https://mnmlst.netlify.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" 
-         height="30" alt="Portfolio"
-         style="margin: 0.3rem; transition: all 0.3s; filter: drop-shadow(0 0 6px #000);" 
-         onmouseover="this.style.transform='scale(1.1)'; this.style.filter='drop-shadow(0 0 12px #000)'" 
-         onmouseout="this.style.transform='scale(1)'; this.style.filter='drop-shadow(0 0 6px #000)'" />
-  </a>
-
-  <!-- Instagram -->
-  <a href="https://instagram.com/_abdulr_hman" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" 
-         height="30" alt="Instagram"
-         style="margin: 0.3rem; transition: all 0.3s; filter: drop-shadow(0 0 6px #E4405F);" 
-         onmouseover="this.style.transform='scale(1.1)'; this.style.filter='drop-shadow(0 0 12px #E4405F)'" 
-         onmouseout="this.style.transform='scale(1)'; this.style.filter='drop-shadow(0 0 6px #E4405F)'" />
+  <a href="https://mnmlst.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" height="30" alt="Portfolio" style="margin: 0.3rem; filter: drop-shadow(0 0 6px #000);" />
   </a>
 </div>
 
 ---
 
-<!-- ===== SKILLS ===== -->
+<h3 align="center">🛠️ Tech Stack</h3>
 <div align="center" style="margin: 2rem 0; display: flex; flex-wrap: wrap; gap: 0.5rem; justify-content: center;">
 
-  <!-- Core Frontend -->
-  <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS" style="filter: drop-shadow(0 0 8px #2965f1);" />
-  <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML" style="filter: drop-shadow(0 0 8px #e34c26);" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="50" alt="JavaScript" style="filter: drop-shadow(0 0 8px #f7df1e);" />
-  <img src="https://skillicons.dev/icons?i=typescript" height="50" alt="TypeScript" style="filter: drop-shadow(0 0 8px #3178c6);" />
-  <img src="https://skillicons.dev/icons?i=react" height="50" alt="React" style="filter: drop-shadow(0 0 8px #61dafb);" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="Tailwind CSS" style="filter: drop-shadow(0 0 8px #38bdf8);" />
+  <img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML" style="filter: drop-shadow(0 0 8px #e34c26);" />
+  <img src="https://skillicons.dev/icons?i=css" height="48" alt="CSS" style="filter: drop-shadow(0 0 8px #2965f1);" />
+  <img src="https://skillicons.dev/icons?i=js" height="48" alt="JS" style="filter: drop-shadow(0 0 8px #f7df1e);" />
+  <img src="https://skillicons.dev/icons?i=ts" height="48" alt="TS" style="filter: drop-shadow(0 0 8px #3178c6);" />
+  <img src="https://skillicons.dev/icons?i=react" height="48" alt="React" style="filter: drop-shadow(0 0 8px #61dafb);" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="48" alt="Next.js" style="filter: drop-shadow(0 0 8px #ffffff);" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="48" alt="Tailwind" style="filter: drop-shadow(0 0 8px #38bdf8);" />
+  <img src="https://skillicons.dev/icons?i=vite" height="48" alt="Vite" style="filter: drop-shadow(0 0 8px #646cff);" />
 
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="Node.js" style="filter: drop-shadow(0 0 8px #3c873a);" />
-  <img src="https://skillicons.dev/icons?i=express" height="50" alt="Express" style="filter: drop-shadow(0 0 8px #ffffff);" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="Firebase" style="filter: drop-shadow(0 0 8px #ffca28);" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL" style="filter: drop-shadow(0 0 8px #00758F);" />
+  <br>
 
-  <!-- General Purpose -->
-  <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" style="filter: drop-shadow(0 0 8px #3776AB);" />
-  <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java" style="filter: drop-shadow(0 0 8px #007396);" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="48" alt="Node" style="filter: drop-shadow(0 0 8px #3c873a);" />
+  <img src="https://skillicons.dev/icons?i=express" height="48" alt="Express" style="filter: drop-shadow(0 0 8px #ffffff);" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="48" alt="MongoDB" style="filter: drop-shadow(0 0 8px #47a248);" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="48" alt="MySQL" style="filter: drop-shadow(0 0 8px #00758F);" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="48" alt="Firebase" style="filter: drop-shadow(0 0 8px #ffca28);" />
 
-  <!-- Mobile -->
-  <img src="https://skillicons.dev/icons?i=dart" height="50" alt="Dart" style="filter: drop-shadow(0 0 8px #0175C2);" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="50" alt="Flutter" style="filter: drop-shadow(0 0 8px #02569B);" />
+  <br>
 
-  <!-- Advanced Frontend -->
-  <img src="https://skillicons.dev/icons?i=threejs" height="50" alt="Three.js" style="filter: drop-shadow(0 0 8px #ffffff);" />
-
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" style="filter: drop-shadow(0 0 8px #F05032);" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" style="filter: drop-shadow(0 0 8px #000);" />
-  <img src="https://skillicons.dev/icons?i=npm" height="50" alt="npm" style="filter: drop-shadow(0 0 8px #CB3837);" />
-  <img src="https://skillicons.dev/icons?i=pnpm" height="50" alt="pnpm" style="filter: drop-shadow(0 0 8px #F69220);" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VSCode" style="filter: drop-shadow(0 0 8px #007ACC);" />
-  <img src="https://skillicons.dev/icons?i=webstorm" height="50" alt="WebStorm" style="filter: drop-shadow(0 0 8px #07C3F2);" />
-  <img src="https://skillicons.dev/icons?i=figma" height="50" alt="Figma" style="filter: drop-shadow(0 0 8px #F24E1E);" />
-  <img src="https://skillicons.dev/icons?i=markdown" height="50" alt="Markdown" style="filter: drop-shadow(0 0 8px #000);" />
-
-  <!-- Knowledge Tools -->
-  <img src="https://skillicons.dev/icons?i=obsidian" height="50" alt="Obsidian" style="filter: drop-shadow(0 0 8px #483699);" />
-  <img src="https://skillicons.dev/icons?i=notion" height="50" alt="Notion" style="filter: drop-shadow(0 0 8px #000);" />
+  <img src="https://skillicons.dev/icons?i=git" height="48" alt="Git" style="filter: drop-shadow(0 0 8px #F05032);" />
+  <img src="https://skillicons.dev/icons?i=postman" height="48" alt="Postman" style="filter: drop-shadow(0 0 8px #ff6c37);" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="48" alt="VSCode" style="filter: drop-shadow(0 0 8px #007ACC);" />
+  <img src="https://skillicons.dev/icons?i=linux" height="48" alt="Linux" style="filter: drop-shadow(0 0 8px #fcc624);" />
+  <img src="https://skillicons.dev/icons?i=figma" height="48" alt="Figma" style="filter: drop-shadow(0 0 8px #F24E1E);" />
 </div>
 
 ---
 
-<!-- ===== GITHUB STATS ===== -->
+<h2 align="center">📊 GitHub Analytics</h2>
 
-# 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrahmanSE2003&layout=compact&theme=radical" alt="Top Langs" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrahmanSE2003&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulrahmanSE2003&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://github-streak-stats.herokuapp.com/?user=AbdulrahmanSE2003&theme=radical" alt="GitHub Streak" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulrahmanSE2003&theme=radical" width="100%" alt="Activity Graph" />
+</p>
 
 ---
 
+<p align="center">
+  <img src="https://github.com/AbdulrahmanSE2003/AbdulrahmanSE2003/blob/output/github-snake-dark.svg" alt="Snake Game" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AbdulrahmanSE2003&color=00d4ff&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![snake gif](https://github.com/AbdulrahmanSE2003/AbdulrahmanSE2003/blob/output/github-snake-dark.svg)
