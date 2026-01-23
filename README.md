@@ -123,7 +123,7 @@ I am a **Frontend Developer** dedicated to crafting clean and responsive web exp
 
 # 📊 GitHub Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrahmanSE2003&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrahmanSE2003&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
