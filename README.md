@@ -13,7 +13,7 @@ Frontend Developer
 </h3>
 
 <p align="center">
-I am a <b>Frontend Developer</b> dedicated to crafting clean and responsive web experiences. With expertise in <b>React</b>, <b>Next.js</b>, and <b>Tailwind CSS</b>, I build modern interfaces that combine performance, simplicity, and intuitive design.
+Passionate Frontend Engineer specialized in building scalable, high-performance web applications using the MERN Stack. I thrive on turning complex problems into elegant, pixel-perfect user interfaces with React and Next.js, while ensuring a seamless user experience across all devices."
 </p>
 
 <div align="center" style="margin: 1.5rem 0;">
@@ -68,6 +68,10 @@ I am a <b>Frontend Developer</b> dedicated to crafting clean and responsive web 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrahmanSE2003&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbdulrahmanSE2003&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" />
 </p>
 
