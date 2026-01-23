@@ -66,14 +66,16 @@ Passionate Frontend Engineer specialized in building scalable, high-performance 
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulrahmanSE2003&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrahmanSE2003&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulrahmanSE2003&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" />
-</p>
 
 ---
 
