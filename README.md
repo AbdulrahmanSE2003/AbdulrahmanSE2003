@@ -9,11 +9,11 @@
 ---
 
 <h3 align="center">
-Frontend Developer
+🚀 Building Digital Experiences with Code
 </h3>
 
 <p align="center">
-Passionate Frontend Engineer specialized in building scalable, high-performance web applications using the MERN Stack. I thrive on turning complex problems into elegant, pixel-perfect user interfaces with React and Next.js, while ensuring a seamless user experience across all devices."
+Passionate <b>Frontend Engineer</b> specialized in building scalable, high-performance web applications using the <b>MERN Stack</b>. I thrive on turning complex problems into elegant, pixel-perfect user interfaces with <b>React</b> and <b>Next.js</b>, while ensuring a seamless user experience across all devices.
 </p>
 
 <div align="center" style="margin: 1.5rem 0;">
@@ -66,16 +66,13 @@ Passionate Frontend Engineer specialized in building scalable, high-performance 
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbdulrahmanSE2003&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrahmanSE2003&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrahmanSE2003&layout=compact&theme=radical&cache_seconds=1800" alt="Top Langs" />
 </p>
-
-
 
 ---
 
