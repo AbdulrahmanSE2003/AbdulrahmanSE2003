@@ -59,26 +59,6 @@ Passionate <b>Frontend Engineer</b> specialized in building scalable, high-perfo
 
 ---
 
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulrahmanSE2003&show_icons=true&theme=radical&count_private=true&v=2026" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrahmanSE2003&layout=compact&theme=radical&v=2026" alt="Top Langs" />
-</p>
-
----
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AbdulrahmanSE2003/AbdulrahmanSE2003/output/github-snake-dark.svg" alt="Snake Game" />
-</p>
-
----
-
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
 </p>
