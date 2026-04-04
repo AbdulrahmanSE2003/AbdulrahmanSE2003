@@ -32,7 +32,6 @@ Git · Postman · VSCode · Linux · Figma
 | [uni-solver](https://github.com/AbdulrahmanSE2003/uni-solver) | AI-powered assignment helper that reads PDF uploads and generates structured solutions using Google Gemini 1.5 Flash |
 | [miro-clone](https://github.com/AbdulrahmanSE2003/miro-clone) | Real-time collaborative whiteboard with multi-user cursors, infinite canvas, and persistent boards via Liveblocks and Convex |
 | [gemini-clone](https://github.com/AbdulrahmanSE2003/gemini-clone) | Functional clone of the Gemini AI chat interface · TypeScript |
-| [Texon-ecommerce](https://github.com/Texon-io/Texon-ecommerce) | Full-stack e-commerce platform · JavaScript |
 | [Mnmlst](https://github.com/AbdulrahmanSE2003/Mnmlst) | Personal portfolio site · JavaScript |
 
 ---
@@ -49,13 +48,13 @@ Git · Postman · VSCode · Linux · Figma
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AbdulrahmanSE2003&show_icons=true&hide_border=true&theme=github_dark&count_private=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=AbdulrahmanSE2003&show_icons=true&hide_border=true&theme=default&count_private=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=AbdulrahmanSE2003&show_icons=true&hide_border=true&theme=default&count_private=true" height="160" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=AbdulrahmanSE2003&show_icons=true&hide_border=true&theme=github_dark&count_private=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=AbdulrahmanSE2003&show_icons=true&hide_border=true&theme=default&count_private=true" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AbdulrahmanSE2003&show_icons=true&hide_border=true&theme=default&count_private=true" height="160" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrahmanSE2003&layout=compact&hide_border=true&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrahmanSE2003&layout=compact&hide_border=true&theme=default" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrahmanSE2003&layout=compact&hide_border=true&theme=default" height="160" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AbdulrahmanSE2003&layout=compact&hide_border=true&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AbdulrahmanSE2003&layout=compact&hide_border=true&theme=default" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AbdulrahmanSE2003&layout=compact&hide_border=true&theme=default" height="160" />
   </picture>
 </p>
