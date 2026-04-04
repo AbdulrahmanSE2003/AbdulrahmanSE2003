@@ -47,15 +47,7 @@ Git · Postman · VSCode · Linux · Figma
 ## GitHub Stats
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=AbdulrahmanSE2003&show_icons=true&hide_border=true&theme=transparent&title_color=0070f3&text_color=ffffff&icon_color=0070f3&count_private=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=AbdulrahmanSE2003&show_icons=true&hide_border=true&theme=default&count_private=true" />
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AbdulrahmanSE2003&show_icons=true&hide_border=true&theme=default&count_private=true" height="160" />
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AbdulrahmanSE2003&layout=compact&hide_border=true&theme=transparent&title_color=0070f3&text_color=ffffff&icon_color=0070f3" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AbdulrahmanSE2003&layout=compact&hide_border=true&theme=default" />
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AbdulrahmanSE2003&layout=compact&hide_border=true&theme=default" height="160" />
-  </picture>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AbdulrahmanSE2003&show_icons=true&hide_border=true&theme=github_dark&count_private=true&bg_color=0d1117" height="160" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AbdulrahmanSE2003&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117" height="160" alt="Top Languages" />
 </p>
