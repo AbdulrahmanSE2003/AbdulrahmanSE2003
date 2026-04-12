@@ -28,7 +28,7 @@ Git · Postman · VSCode · Linux · Figma
 
 | Project | Description |
 |---|---|
-| [Bedrock](https://github.com/AbdulrahmanSE2003/Bedrock) | Minimalist task manager with Kanban, habit tracking, and Google Tasks sync — built with Next.js 15, Supabase, and Clerk |
+| [Bedrock](https://github.com/AbdulrahmanSE2003/Bedrock) | Minimalist task manager with Kanban, habit tracking, and Google Tasks sync — built with Next.js 16, Supabase, and Clerk |
 | [uni-solver](https://github.com/AbdulrahmanSE2003/uni-solver) | AI-powered assignment helper that reads PDF uploads and generates structured solutions using Google Gemini 1.5 Flash |
 | [miro-clone](https://github.com/AbdulrahmanSE2003/miro-clone) | Real-time collaborative whiteboard with multi-user cursors, infinite canvas, and persistent boards via Liveblocks and Convex |
 | [gemini-clone](https://github.com/AbdulrahmanSE2003/gemini-clone) | Functional clone of the Gemini AI chat interface · TypeScript |
