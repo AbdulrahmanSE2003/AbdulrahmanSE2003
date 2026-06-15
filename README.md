@@ -6,9 +6,7 @@ I work primarily with the **MERN stack**, specializing in **React** and **Next.j
 
 📫 **Reach me at:** abdulrahman.saad2303@gmail.com  
 🔗 **LinkedIn:** [abdulrahman-saad-hassan](https://www.linkedin.com/in/abdulrahman-saad-hassan/)  
-🌐 **Portfolio:** [mnmlst-nine.vercel.app](https://mnmlst-nine.vercel.app/)  
-💬 **Discord:** mad_bishob
-
+🌐 **Portfolio:** [mnmlst-dev.vercel.app](https://mnmlst-dev.vercel.app/)  
 ---
 
 ## Tech Stack
