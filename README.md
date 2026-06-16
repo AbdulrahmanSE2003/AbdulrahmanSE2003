@@ -1,53 +1,40 @@
-# Hi, I'm Abdulrahman Saad 👋
+# Abdulrahman Saad
 
-Frontend Engineer focused on building scalable, performant web applications with clean UI and smooth UX.
+Frontend Engineer — building clean, fast, and intentional digital products with Next.js, TypeScript, and the MERN stack.
 
-I work primarily with the **MERN stack**, specializing in **React** and **Next.js**. I care about writing maintainable code and delivering interfaces that work well across all devices.
-
-📫 **Reach me at:** abdulrahman.saad2303@gmail.com  
-🔗 **LinkedIn:** [abdulrahman-saad-hassan](https://www.linkedin.com/in/abdulrahman-saad-hassan/)  
-🌐 **Portfolio:** [mnmlst-dev.vercel.app](https://mnmlst-dev.vercel.app/)  
+**Portfolio:** [mnmlst-dev.vercel.app](https://mnmlst-dev.vercel.app/) · **Email:** abdulrahman.saad2303@gmail.com · **LinkedIn:** [abdulrahman-saad-hassan](https://www.linkedin.com/in/abdulrahman-saad-hassan/)
 
 ---
 
-## Tech Stack
+## Stack
 
-**Frontend**  
-HTML · CSS · JavaScript · TypeScript · React · Next.js · Tailwind CSS · Shadcn
-
-**Backend**  
-Node.js · Express · MongoDB · MySQL · Firebase, Supabase
-
-**Tools**  
-Git · Postman · VSCode · Linux · Figma
+**Frontend** · TypeScript · React · Next.js · Tailwind CSS · Framer Motion · Shadcn/ui  
+**Backend** · Node.js · Express · MongoDB · Mongoose  
+**Tools** · Git · Figma · Bruno · Linux · VSCode
 
 ---
 
 ## Projects
 
-| Project | Description |
-|---|---|
-| [Bedrock](https://github.com/AbdulrahmanSE2003/Bedrock) | Minimalist task manager with Kanban, habit tracking, and Google Tasks sync — built with Next.js 16, Supabase, and Clerk |
-| [Threads-flow](https://github.com/AbdulrahmanSE2003/threads-flow) | Full-stack social platform with real-time feeds and nested threading — built with Next.js 16, Prisma, PostgreSQL |
-| [uni-solver](https://github.com/AbdulrahmanSE2003/uni-solver) | AI-powered assignment helper that reads PDF uploads and generates structured solutions using Google Gemini 1.5 Flash |
-| [miro-clone](https://github.com/AbdulrahmanSE2003/miro-clone) | Real-time collaborative whiteboard with multi-user cursors, infinite canvas, and persistent boards via Liveblocks and Convex |
-| [gemini-clone](https://github.com/AbdulrahmanSE2003/gemini-clone) | Functional clone of the Gemini AI chat interface · TypeScript |
-| [Mnmlst](https://github.com/AbdulrahmanSE2003/Mnmlst) | Personal portfolio site · JavaScript |
+| Project | Stack | Description |
+|---|---|---|
+| [Bedrock](https://github.com/AbdulrahmanSE2003/Bedrock) | Next.js · Supabase · Clerk | Minimalist productivity app with Kanban boards, habit tracking, and Google Tasks sync |
+| [Threads-flow](https://github.com/AbdulrahmanSE2003/threads-flow) | Next.js · Prisma · PostgreSQL | Full-stack social platform with nested threading and real-time feeds |
+| [Uni-Solver](https://github.com/AbdulrahmanSE2003/uni-solver) | Next.js · Gemini API | AI-powered academic assistant — accepts PDF uploads, generates structured solutions |
+| [Miro Clone](https://github.com/AbdulrahmanSE2003/miro-clone) | Next.js · Liveblocks · Convex | Real-time collaborative whiteboard with infinite canvas and multi-user cursors |
+| [Mnmlst](https://github.com/AbdulrahmanSE2003/Mnmlst) | Next.js · Framer Motion | Personal portfolio — Minimal design Apple inspired with scroll animations |
 
 ---
 
-## Currently Learning
+## Currently
 
-- Advanced TypeScript patterns
-- Testing (Jest, React Testing Library)
-- System design fundamentals
+- Building → MedConnect multi-vendor medical supplies platform (MERN)
+- Learning → Advanced TypeScript patterns · System design fundamentals
+- Reading → You Don't Know JS Yet — Kyle Simpson
 
 ---
-
-## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AbdulrahmanSE2003&show_icons=true&hide_border=true&count_private=true&bg_color=141b23&title_color=223c62&text_color=FFFFFF&icon_color=223c62" height="160" alt="GitHub Stats" />
-
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AbdulrahmanSE2003&layout=compact&hide_border=true&bg_color=141b23&title_color=223c62&text_color=FFFFFF&icon_color=223c62" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AbdulrahmanSE2003&show_icons=true&hide_border=true&count_private=true&bg_color=0e0e0f&title_color=f0f0ee&text_color=666664&icon_color=f0f0ee" height="160" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AbdulrahmanSE2003&layout=compact&hide_border=true&bg_color=0e0e0f&title_color=f0f0ee&text_color=666664" height="160" />
 </p>
