@@ -22,7 +22,7 @@ Frontend Engineer — building clean, fast, and intentional digital products wit
 | [Threads-flow](https://github.com/AbdulrahmanSE2003/threads-flow) | Next.js · Prisma · PostgreSQL | Full-stack social platform with nested threading and real-time feeds |
 | [Uni-Solver](https://github.com/AbdulrahmanSE2003/uni-solver) | Next.js · Gemini API | AI-powered academic assistant — accepts PDF uploads, generates structured solutions |
 | [Miro Clone](https://github.com/AbdulrahmanSE2003/miro-clone) | Next.js · Liveblocks · Convex | Real-time collaborative whiteboard with infinite canvas and multi-user cursors |
-| [Mnmlst](https://github.com/AbdulrahmanSE2003/Mnmlst) | Next.js · Framer Motion | Personal portfolio — Minimal design Apple inspired with scroll animations |
+| [Mnmlst](https://github.com/AbdulrahmanSE2003/Mnmlst-v2) | Next.js · Framer Motion | Personal portfolio — Minimal design Apple inspired with scroll animations |
 
 ---
 
