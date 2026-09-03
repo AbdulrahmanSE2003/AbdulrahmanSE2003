@@ -32,9 +32,3 @@ Frontend Engineer — building clean, fast, and intentional digital products wit
 - Learning → Advanced TypeScript patterns · System design fundamentals
 - Reading → You Don't Know JS Yet — Kyle Simpson
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AbdulrahmanSE2003&show_icons=true&hide_border=true&count_private=true&bg_color=0e0e0f&title_color=f0f0ee&text_color=666664&icon_color=f0f0ee" height="160" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AbdulrahmanSE2003&layout=compact&hide_border=true&bg_color=0e0e0f&title_color=f0f0ee&text_color=666664" height="160" />
-</p>
