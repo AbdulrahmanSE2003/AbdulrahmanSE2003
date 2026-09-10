@@ -9,8 +9,8 @@ Frontend Engineer — building clean, fast, and intentional digital products wit
 ## Stack
 
 **Frontend** · TypeScript · React · Next.js · Tailwind CSS · Framer Motion · Shadcn/ui  
-**Backend** · Node.js · Express · MongoDB · Mongoose  
-**Tools** · Git · Figma · Bruno · Linux · VSCode
+**Backend** · Node.js · Express · NestJS · MongoDB · Mongoose · PostgreSQL · Prisma  
+**Tools** · Git · Docker · Figma · Bruno · Postman ·Linux · VSCode
 
 ---
 
@@ -18,17 +18,18 @@ Frontend Engineer — building clean, fast, and intentional digital products wit
 
 | Project | Stack | Description |
 |---|---|---|
-| [Bedrock](https://github.com/AbdulrahmanSE2003/Bedrock) | Next.js · Supabase · Clerk | Minimalist productivity app with Kanban boards, habit tracking, and Google Tasks sync |
+| [El-Le3ba](https://github.com/AbdulrahmanSE2003/el-le3ba) | Next.js · Socket.io · MongoDB | Competitive university quiz platform with real-time ranked matches and live leaderboards |
+| [Uni-College API](https://github.com/AbdulrahmanSE2003/uni-college-api) | Node.js · Express · MongoDB · Gemini | AI-powered LMS REST API with role-based auth, exam generation, and async auto-grading |
+| [Quill API](https://github.com/AbdulrahmanSE2003/quill-api) | Node.js · Express · MongoDB · Cloudinary | REST API for a reading tracker with Google OAuth, PDF processing, and streak tracking |
 | [Threads-flow](https://github.com/AbdulrahmanSE2003/threads-flow) | Next.js · Prisma · PostgreSQL | Full-stack social platform with nested threading and real-time feeds |
 | [Uni-Solver](https://github.com/AbdulrahmanSE2003/uni-solver) | Next.js · Gemini API | AI-powered academic assistant — accepts PDF uploads, generates structured solutions |
-| [Miro Clone](https://github.com/AbdulrahmanSE2003/miro-clone) | Next.js · Liveblocks · Convex | Real-time collaborative whiteboard with infinite canvas and multi-user cursors |
 | [Mnmlst](https://github.com/AbdulrahmanSE2003/Mnmlst-v2) | Next.js · Framer Motion | Personal portfolio — Minimal design Apple inspired with scroll animations |
 
 ---
 
 ## Currently
 
-- Building → MedConnect multi-vendor medical supplies platform (MERN)
-- Learning → Advanced TypeScript patterns · System design fundamentals
+- Building → Wakeel 365 — multi-tenant real estate SaaS
+- Learning → NestJS · System design fundamentals - Go
 - Reading → You Don't Know JS Yet — Kyle Simpson
 
